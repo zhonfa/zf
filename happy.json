@@ -3,8 +3,8 @@
 	"ios_url" : "",
 	"android_ver" : "1.0.0",
 	"android_url" : "",
-	"zipurl" : "https://entry.7k.com/bc/game.zip",
-	"zipmd5" : "C416606211D0DC2424CC42D3DF58C249",
-	"dirurl" : "https://entry.7k.com/bc/",
-	"fileListMD5" : "E06AEF06F70067D79D3F77F4A3A1BF0B"
+	"zipurl" : "http://129.204.100.168:35500/zfyl/game.zip",
+	"zipmd5" : "5E8516B8C26B381C4F11DA6406208C54",
+	"dirurl" : "http://129.204.100.168:35500/zfyl",
+	"fileListMD5" : "09840556DDE6F46BC43BFE1F7F6F6A24"
 }

@@ -4,7 +4,7 @@
 	"android_ver" : "1.0.0",
 	"android_url" : "",
 	"zipurl" : "http://129.204.100.168:35500/zfyl/game.zip",
-	"zipmd5" : "4ACA428650E7CF3216D72D55C6C6ACFE",
-	"dirurl" : "http://129.204.100.168:35500/zfyl/",
-	"fileListMD5" : "27F30B2BAF640416DCE32836CACC378C"
+	"zipmd5" : "290FB98297CEF16BBA633E395DFADA8A",
+	"dirurl" : "http://129.204.100.168:35500/zfyl",
+	"fileListMD5" : "23DD6E975ADE925C7D45E117FDEAED44"
 }
